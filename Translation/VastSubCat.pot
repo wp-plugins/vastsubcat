@@ -1,0 +1,41 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-12-20 01:16+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: VastSubCat.php:74
+msgid "+ Add New Category"
+msgstr ""
+
+#: VastSubCat.php:78
+msgid "Add New Category"
+msgstr ""
+
+#: VastSubCat.php:80
+msgid "New category name"
+msgstr ""
+
+#: VastSubCat.php:82 VastSubCat.php:84
+msgid "Parent category"
+msgstr ""
+
+#: VastSubCat.php:85
+msgid "Add"
+msgstr ""
+
+#: VastSubCat.php:93
+msgid "VastSubCat Categories"
+msgstr ""
