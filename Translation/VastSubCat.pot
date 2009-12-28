@@ -1,0 +1,85 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-12-22 02:37+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: VastSubCat.php:30
+msgid "VastSubCat 0.7"
+msgstr ""
+
+#: VastSubCat.php:31
+msgid "This plugin was built with funding of "
+msgstr ""
+
+#: VastSubCat.php:31
+msgid "it keep running by "
+msgstr ""
+
+#: VastSubCat.php:31
+msgid "Donate to support future development"
+msgstr ""
+
+#: VastSubCat.php:34
+msgid "Settings"
+msgstr ""
+
+#: VastSubCat.php:37
+msgid "Lock checked categories to hirarchial location?"
+msgstr ""
+
+#: VastSubCat.php:40
+msgid "save settings"
+msgstr ""
+
+#: VastSubCat.php:42
+msgid "If you want to give something back:"
+msgstr ""
+
+#: VastSubCat.php:44
+msgid "My Amazon Wishlist"
+msgstr ""
+
+#: VastSubCat.php:101
+msgid "All Categories"
+msgstr ""
+
+#: VastSubCat.php:102
+msgid "Most Used"
+msgstr ""
+
+#: VastSubCat.php:118
+msgid "+ Add New Category"
+msgstr ""
+
+#: VastSubCat.php:122
+msgid "Add New Category"
+msgstr ""
+
+#: VastSubCat.php:124
+msgid "New category name"
+msgstr ""
+
+#: VastSubCat.php:126 VastSubCat.php:128
+msgid "Parent category"
+msgstr ""
+
+#: VastSubCat.php:129
+msgid "Add"
+msgstr ""
+
+#: VastSubCat.php:137
+msgid "VastSubCat Categories"
+msgstr ""
