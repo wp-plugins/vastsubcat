@@ -1,0 +1,89 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: VastSubCat 0.8\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-12-22 02:32+0200\n"
+"PO-Revision-Date: 2009-12-22 02:36+0200\n"
+"Last-Translator: Asaf Chertkoff <asaf@freeallweb.org>\n"
+"Language-Team: FreeAllWeb GUILD <asaf@freeallweb.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Hebrew\n"
+"X-Poedit-Country: ISRAEL\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#: VastSubCat.php:30
+msgid "VastSubCat 0.7"
+msgstr "VastSubCat 0.7"
+
+#: VastSubCat.php:31
+msgid "This plugin was built with funding of "
+msgstr "התוסף נבנה במימון של"
+
+#: VastSubCat.php:31
+msgid "it keep running by "
+msgstr "הוא ממשיך לרוץ"
+
+#: VastSubCat.php:31
+msgid "Donate to support future development"
+msgstr "תרום על מנת לתמוך בפיתוח עתידי"
+
+#: VastSubCat.php:34
+msgid "Settings"
+msgstr "הגדרות"
+
+#: VastSubCat.php:37
+msgid "Lock checked categories to hirarchial location?"
+msgstr "נעל קטגוריות מסומנות בסדר ההירארכי של עץ הקטגוריות?"
+
+#: VastSubCat.php:40
+msgid "save settings"
+msgstr "שמור הגדרות"
+
+#: VastSubCat.php:42
+msgid "If you want to give something back:"
+msgstr "אם אתה מעוניין לתת משהו חזרה:"
+
+#: VastSubCat.php:44
+msgid "My Amazon Wishlist"
+msgstr "רשימת הבקשות שלי באמזון"
+
+#: VastSubCat.php:101
+msgid "All Categories"
+msgstr "כל הקטגוריות"
+
+#: VastSubCat.php:102
+msgid "Most Used"
+msgstr "המשומשות ביותר"
+
+#: VastSubCat.php:118
+msgid "+ Add New Category"
+msgstr "+ הוסף קטגוריה חדשה"
+
+#: VastSubCat.php:122
+msgid "Add New Category"
+msgstr "הוסף קטגוריה חדשה"
+
+#: VastSubCat.php:124
+msgid "New category name"
+msgstr "שם לקטגוריה החדשה"
+
+#: VastSubCat.php:126
+#: VastSubCat.php:128
+msgid "Parent category"
+msgstr "קטגורית אם"
+
+#: VastSubCat.php:129
+msgid "Add"
+msgstr "הוסף"
+
+#: VastSubCat.php:137
+msgid "VastSubCat Categories"
+msgstr "VastSubCat Categories"
+
